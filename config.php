@@ -56,6 +56,7 @@ $settings = [
         ],
         'files' => [
             'report_broken_media' => false,
+            'download_parallel_chunks' => 5,
         ],
     ],
     'api' => [
